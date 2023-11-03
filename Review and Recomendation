@@ -1,0 +1,24 @@
+OBSERVATION:
+All the Class were not properly arranged.
+
+RECOMMENDATION:
+I will recommend a well folder structure (Package) where the necessary classes can be found. for readability.
+
+OBSERVATION ON CUSTOMER CLASS:
+The Customer class was well arranged with all the necessary components required for JPA entity.
+
+RECOMMENDATION:
+
+I will recommend the use of Lombok annotation, to reduce the boilerplate code in the classes and repetitive of the getter,setter and the rest.
+
+OBSERVATION ON CUSTOMER MAIN CLASS:
+A Spring Boot main class should  serve as the entry point of your Spring Boot application.
+which is supposed to contains essential information and configurations to bootstrap and run your application.
+
+
+RECOMMENDATION:
+I will recommend to create a separate controller class which will be used for routing. un necessary commented code should be removed .
+
+
+CONCLUSION:
+Applying these recommendations will lead to substantial enhancements in code organization, maintainability, and alignment with industry-standard software engineering practices.
